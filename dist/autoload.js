@@ -6,7 +6,7 @@
 // Recommended to use absolute path for live2d_path parameter
 // live2d_path 参数建议使用绝对路径
 // const live2d_path = 'https://fastly.jsdelivr.net/npm/live2d-widgets@1.0.0-rc.6/dist/';
-const live2d_path = 'https://fastly.jsdelivr.net/gh/us1k2/live2d@1.0.1  /dist/';
+const live2d_path = 'https://fastly.jsdelivr.net/gh/us1k2/live2d@1.0.2  /dist/';
 // https://fastly.jsdelivr.net/gh/us1k2/live2d@latest/dist/autoload.js
 // const live2d_path = '/dist/';
 
